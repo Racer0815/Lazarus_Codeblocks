@@ -1,3 +1,6 @@
+//Part of the lazarus_Codeblocks Project
+//https://github.com/Racer0815/Lazarus_Codeblocks
+//Made by Racer0815
 unit charts;
 
 Interface
