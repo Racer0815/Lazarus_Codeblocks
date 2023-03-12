@@ -1,6 +1,6 @@
-//Part of the lazarus_Codeblocks Project
-//https://github.com/Racer0815/Lazarus_Codeblocks
-//Made by Racer0815
+//Charts.pas - Part of the Lazarus_Codeblocks Project.
+//Created by Racer0815 March 2023.
+//https://github.com/Racer0815/Lazarus_Codeblocks 
 unit charts;
 
 Interface
